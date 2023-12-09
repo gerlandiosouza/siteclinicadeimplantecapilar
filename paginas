@@ -39,13 +39,13 @@
                 <h1> Clinica Hair & Skin</h1>
                 <br>
 
-                <p> A Clinica HSC veio para mudar sua vida. Agora você pode ter sual alto-estima de volta. 
+                <p> A Clinica Hair & Skin veio para mudar sua vida. Agora você pode ter sual alto-estima de volta. 
                     Nossos profissionais trazem para Natal as ténicas mais modermas para implantes de cabelo e cuidados do couro cabeludo.
                     Com uma infraestruta de alto-padrão, equipamentos modernos profissionais altamente qualificados, trazemos o melhor
                     para o publico do RN. 
                 </p>
                 <br>
-                <p style="text-align: center;">
+                <p style="text-align: ;">
                     Agende hoje mesmo um horário com nossos especialistas.
           
         </main>
@@ -63,3 +63,398 @@
    
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinica Hair and Skin</title>
+    <link rel="stylesheet" href="style.css">
+    
+<body>
+    <div id="imgsobrenos">
+        
+    </div>
+
+    <div id="warepcentral"> 
+
+        <nav>
+       
+                <ul>
+                
+                <li><a id="home" href="./index.html" target="_self">Home</a></li> </li>
+                
+                <li><a href="./sobreaclinica.html" target="_blank">Sobre nós</a></li>
+                
+                       
+                <li><a href="./horarios.html" target="_blank">Horários</a></li>
+               
+                        
+                <li><a href="./contato.html" target="_blank">Contato</a></li>
+                
+                        
+                </ul>
+
+        </nav>
+
+        <main> 
+                <h2> Quem somos</h2>
+                <br>
+
+                <p>
+                    Nossa clinica é especializada em impnate capilar e cuidados do couro cabeludo. Nossa equipe de profissionais altamente qualificados utiliza as mais avançadas técnicas e tecnologias para proporcionar resultados naturais e duradouros. Na Clínica Hair & Skin, entendemos a importância da autoestima e confiança, e é por isso que nos dedicamos a oferecer soluções personalizadas para cada paciente.</p>
+
+                
+                <br>    <p>Oferecemos uma gama completa de serviços, desde consultas especializadas até procedimentos avançados de transplante capilar, utilizando as mais recentes inovações em medicina capilar. Além disso, nossos tratamentos abrangem cuidados específicos para o couro cabeludo, promovendo um ambiente saudável para o crescimento capilar.
+
+Na Clínica Hair & Skin, comprometemo-nos em proporcionar uma experiência acolhedora e confortável, garantindo que cada cliente se sinta confiante e satisfeito com os resultados. Recupere a sua autoconfiança e conquiste um visual deslumbrante conosco. Marque sua consulta hoje mesmo e embarque na jornada para um cabelo mais saudável e bonito.
+                </p>
+                <br>
+                
+        </main>   
+        
+    <footer>
+
+  
+                <p> Endereço: Rua Dr Valter Marinho, 55, Tirol</p>
+                <br>
+                <p> CEP: 5900 - 000</p>
+    
+    </footer>
+        
+   
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinica Hair and Skin</title>
+    <link rel="stylesheet" href="style.css">
+    
+<body>
+    <div id="imgtop">
+        
+    </div>
+
+    <div id="warepcentral"> 
+
+        <nav>
+       
+                <ul>
+                
+                <li><a id="home" href="./index.html" target="_self">Home</a></li> </li>
+                
+                <li><a href="./sobreaclinica.html" target="_blank">Sobre nós</a></li>
+                
+                       
+                <li><a href="./horarios.html" target="_blank">Horários</a></li>
+               
+                        
+                <li><a href="./contato.html" target="_blank">Contato</a></li>
+                
+                        
+                </ul>
+
+        </nav>
+
+        <main id="table"> 
+                <h2> Horários de funcionamento</h2>
+                <br>
+
+                <table style="border: 1px solid black; width:300px; text-align: center";>
+                <tr> 
+                    <th> Dias da Semana</th>
+                    <th> Horários</th>
+                </tr>
+                <tr>
+                    <td> Segunda a Sexta</td>
+                    <td> 08:00 - 18:00</td>
+                </tr>
+
+               <tr>
+                    <td> Sábado</td>
+                    <td> 08:00 - 14:00</td>
+                </tr>
+                
+                    <td> Domingo</td>
+                    <td> Fechado</td>
+                    
+                </tr>
+
+                </table>
+                <br>
+                <p  id="contatop">
+                    Agende hoje mesmo um horário!
+                </p>
+          
+        </main>   
+        
+    <footer>
+
+  
+                <p> Endereço: Rua Dr Valter Marinho, 55, Tirol</p>
+                <br>
+                <p> CEP: 5900 - 000</p>
+    
+    </footer>
+        
+   
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinica Hair and Skin</title>
+    <link rel="stylesheet" href="style.css">
+    
+<body>
+    <div id="imgcontato">
+        
+    </div>
+
+    <div id="warepcentral"> 
+
+        <nav>
+       
+                <ul>
+                
+                <li><a id="home" href="./index.html" target="_self">Home</a></li> </li>
+                
+                <li><a href="./sobreaclinica.html" target="_blank">Sobre nós</a></li>
+                
+                       
+                <li><a href="./horarios.html" target="_blank">Horários</a></li>
+               
+                        
+                <li><a href="./contato.html" target="_blank">Contato</a></li>
+                
+                        
+                </ul>
+
+        </nav>
+
+        <main> 
+            <h3 style="text-align: center;"> Fale conosco e agende agora mesmo uma consulta com nossa equipe </h3>
+            <br>
+            
+            <p style="text-align: center;"> Fone:(84) 323232-3232323
+            </p>
+            <br>
+
+            <p style="text-align: center;"> Whatsapp: (84) 87878787-878787
+                
+            </p>
+            <br>
+
+            <p style="text-align: center;"> Endereço: Rua das Alamedas das flores, S/N, Tirol 
+            </p>
+            <br>
+            
+            <div style="text-align: center;">
+
+            <iframe  width="300px" height="100px"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3969.1127835032703!2d-35.20174430000001!3d-5.8397239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2ff9d129f1155%3A0x279e5e5dcc16df32!2s59078%20970%2C%20Av.%20Sen.%20Salgado%20Filho%2C%203000%20-%20Candel%C3%A1ria%2C%20Natal%20-%20RN%2C%2059066-800!5e0!3m2!1spt-BR!2sbr!4v1699226320880!5m2!1spt-BR!2sbr" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            
+            </div>
+          
+        </main>   
+        
+    <footer>
+
+  
+                <p> Endereço: Rua Dr Valter Marinho, 55, Tirol</p>
+                <br>
+                <p> CEP: 5900 - 000</p>
+    
+    </footer>
+        
+   
+</body>
+</html>
+
+
+html, body { 
+    
+    height: 100%; 
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS'
+}
+
+
+header {
+    display: block;
+}
+    
+#imgtop {
+    display: block;
+    float: left;
+    width: 100%;
+    min-height: 200px;
+    background-image: url(./banner-kw-prontuário-eletrônico.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+     
+}
+    
+#imgcontato {
+    display: block;
+    width: 100%;
+    min-height: 200px;
+    background-color: rgb(192, 192, 192);
+    background-image: url(./1140.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+    background-blend-mode: multiply;
+}
+
+#imgsobrenos {
+    display: block;
+    float: left;
+    width: 100%;
+    min-height: 200px;
+    background-color: rgb(164, 164, 164);
+    background-image: url(./equipe-medica.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+}
+th {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#table {
+    
+   
+    align-content: center;
+    padding-left:  20%;
+    padding-right: 42%;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+#warepcentral {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+ 
+       
+}
+
+nav {
+   
+    display: inline-block;  
+    width: 10%;
+    height: 100%;
+    background-color: gray;
+    overflow: auto;
+    padding-top: 20px;
+    overflow: auto;
+    margin-bottom: 0px;
+    padding-bottom: opx;
+    background-origin: border-box;
+    float: left
+     
+}
+    
+li {
+    list-style-type: none;
+      
+    
+}
+#ultimali {
+    margin-bottom: 1px;
+}
+
+#home {
+    background-color: darkorange;
+    color: white;
+    opacity: 0.9;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    display: block;
+    padding: 5px;
+    padding-left: 22px;
+    margin: 0px;
+}
+a:hover {
+    background-color: dimgray;
+    color: darkorange;
+    font-size: 110%;
+    display: block;
+}
+
+ul {
+    height: 100%;
+    margin-bottom: 0%;
+
+}
+
+main {
+    max-width: 88%;
+    min-height:80%;
+    display: inline-block;
+    padding-left: 20px;
+    padding-top: 20px;
+    float: left;
+   
+}
+    
+
+footer {
+    width: 100%;
+    height:20%;
+    display: block;
+    clear: both;   
+    padding-top: 3%;
+    padding-bottom: 2%;
+    align-content: center;
+    text-align: center;
+    background-color: rgb(227, 225, 225);
+    color: gray;
+
+ 
+}
+
+
+footer p{
+    text-align: center;
+}
+
+#contatop {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}  
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding-top: opx;
+}
+
