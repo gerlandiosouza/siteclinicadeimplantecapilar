@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinica Hair and Skin</title>
+    <link rel="stylesheet" href="style.css">
+    
+<body>
+    <header>
+    <div id="imgtop">
+        
+    </div>
+    </header>
+    <div id="warepcentral"> 
+
+        <nav>
+       
+                <ul>
+                
+                <li><a id="home" href="./index.html" target="_self">Home</a></li> </li>
+                
+                <li><a href="./sobreaclinica.html" target="_blank">Sobre nós</a></li>
+                
+                       
+                <li><a href="./horarios.html" target="_blank">Horários</a></li>
+               
+                        
+                <li ><a href="./contato.html" target="_blank">Contato</a></li>
+                
+                <li id="ultimali">  </li>
+                        
+                </ul>
+
+        </nav>
+
+        <main> 
+                <h1> Clinica Hair & Skin</h1>
+                <br>
+
+                <p> A Clinica HSC veio para mudar sua vida. Agora você pode ter sual alto-estima de volta. 
+                    Nossos profissionais trazem para Natal as ténicas mais modermas para implantes de cabelo e cuidados do couro cabeludo.
+                    Com uma infraestruta de alto-padrão, equipamentos modernos profissionais altamente qualificados, trazemos o melhor
+                    para o publico do RN. 
+                </p>
+                <br>
+                <p style="text-align: center;">
+                    Agende hoje mesmo um horário com nossos especialistas.
+          
+        </main>
+    </div>   
+        
+    <footer>
+
+  
+                <p> Endereço: Rua Dr Valter Marinho, 55, Tirol</p>
+                <br>
+                <p> CEP: 5900 - 000</p>
+    
+    </footer>
+        
+   
+</body>
+</html>
